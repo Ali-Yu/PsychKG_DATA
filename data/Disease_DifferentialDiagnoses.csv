@@ -1,0 +1,66 @@
+﻿disease_id,differential_diagnosis_id,excerpt,reference
+5,43,"A type of anxiety disorder that is a direct physiological consequence of another medical condition, which must be differentiated from GAD as the treatment approaches may differ.",dsm5
+5,2,"A mood disorder characterized by extreme mood swings, including episodes of mania and depression, which can present with anxiety and requires distinct management from GAD.",StatPearls
+5,48,"A group of lung diseases that obstruct airflow and can cause shortness of breath, anxiety, and other symptoms; it's important to distinguish this from GAD as the primary focus of treatment is on the lung condition.",StatPearls
+5,8,"A broad category of mental health conditions that include depression, bipolar disorder, and psychotic symptoms, which can present with anxiety and need to be differentiated from GAD for proper treatment.",dsm5
+5,49,"A chronic disorder of the brain that causes recurrent seizures, which can sometimes be accompanied by anxiety; it's important to differentiate epilepsy from GAD to address the underlying neurological condition.",StatPearls
+5,50,"A condition where the thyroid gland produces excessive thyroid hormones, leading to various symptoms including anxiety; it's crucial to distinguish hyperthyroidism from GAD as the treatment focuses on regulating thyroid function.",StatPearls
+5,3,"A mental health disorder characterized by persistent, unwanted thoughts (obsessions) and repetitive behaviors (compulsions), which needs to be differentiated from GAD for targeted therapeutic interventions.",dsm5
+5,51,A rare tumor of the adrenal gland that can cause high blood pressure and symptoms similar to anxiety; it's important to rule this out as it requires specific surgical treatment.,StatPearls
+5,4,"Mental health conditions that can develop after experiencing a traumatic event or significant life changes, respectively, and need to be distinguished from GAD for appropriate trauma-focused treatments.",dsm5
+5,7,"An anxiety disorder characterized by intense fear of social situations and being judged by others, which, while related to GAD, has specific social components that require different therapeutic approaches.",dsm5
+5,29,"Anxiety symptoms that are a direct result of substance use or medication side effects, which must be differentiated from GAD to address the underlying substance use or medication regimen.",dsm5
+5,52,"A temporary blockage of blood flow to the brain, which can cause symptoms similar to anxiety; it's important to differentiate TIA from GAD as it requires urgent medical attention to prevent stroke.",StatPearls
+6,53,"Chest pain associated with panic disorder can mimic angina, leading to initial misdiagnosis, especially when presenting with atypical symptoms.",StatPearls
+6,54,"Panic disorder can present with respiratory symptoms similar to asthma, such as shortness of breath and wheezing, complicating differential diagnosis.",StatPearls
+6,55,"Panic disorder symptoms like shortness of breath and tachycardia can overlap with congestive heart failure, requiring careful assessment to differentiate.",StatPearls
+6,56,"Mitral valve prolapse can present with symptoms such as palpitations and chest pain, which may be mistaken for panic attacks, necessitating careful diagnostic distinction.",StatPearls
+6,57,"Panic disorder can mimic pulmonary embolism with symptoms like sudden shortness of breath, requiring imaging studies to differentiate.",StatPearls
+6,9,"Panic attacks can be induced or exacerbated by substance use, and distinguishing between the two is crucial for proper treatment.",StatPearls
+7,13,"Agoraphobia involves a fear of situations where escape might be difficult or help not available, which can overlap with social anxiety disorder's avoidance behaviors but is distinguished by its focus on physical spaces rather than social interaction.",dsm5
+7,40,,
+7,14,"Avoidant personality disorder shares avoidance behaviors with social anxiety disorder but is distinguished by a pervasive pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation.",StatPearls
+7,22,"BDD involves a preoccupation with perceived flaws in appearance, leading to social avoidance similar to social anxiety disorder, but is differentiated by its focus on imagined or exaggerated physical defects.",dsm5
+7,58,Delusional disorders are characterized by persistent false beliefs and can be distinguished from social anxiety disorder by the presence of psychotic symptoms without prominent anxiety or avoidance of social situations.,dsm5
+7,5,"GAD involves excessive, uncontrollable worry about everyday events, which can be differentiated from social anxiety disorder by its focus on a broader range of concerns rather than specific social or performance situations.",dsm5
+7,39,"Hikikomori is a condition where individuals withdraw from society and remain indoors for extended periods, which may be associated with social anxiety but is distinguished by its severe social withdrawal and isolation.",StatPearls
+7,1,"Depression can present with social withdrawal and anxiety, but it is differentiated from social anxiety disorder by its primary mood symptoms, such as sadness, loss of interest, and feelings of worthlessness.",dsm5
+7,42,"Normative shyness is a common personality trait involving occasional discomfort in social situations, which is distinguished from social anxiety disorder by its less intense and pervasive nature, and without significant impairment.",dsm5
+7,6,"Panic disorder is characterized by recurrent, unexpected panic attacks and fear of experiencing more attacks, which can be differentiated from social anxiety disorder by its focus on the panic attacks rather than social situations.",dsm5
+7,59,"Schizoid personality disorder is marked by a lack of interest in social relationships and a preference for solitary activities, which can be distinguished from social anxiety disorder by its lack of desire for social interaction rather than fear of it.",StatPearls
+7,36,"Schizophrenia is a severe mental disorder characterized by psychotic symptoms, which can be differentiated from social anxiety disorder by its hallucinations, delusions, and disorganized thinking.",StatPearls
+7,11,"Separation anxiety disorder involves excessive anxiety concerning separation from attachment figures, typically starting in childhood, and is distinguished from social anxiety disorder by its focus on separation rather than social interaction.",StatPearls
+7,12,"Specific phobias involve a marked fear of a specific object or situation, which can be differentiated from social anxiety disorder by its circumscribed focus on a particular stimulus rather than social or performance situations.",dsm5
+7,60,"These disorders involve a pattern of substance use leading to clinically significant impairment, which can be differentiated from social anxiety disorder by their focus on substance use and related negative consequences rather than social interaction.",StatPearls
+2,10,"ADHD and bipolar disorder share symptoms such as impulsivity and mood swings, requiring careful assessment to distinguish between the two, especially in adults where ADHD can be underdiagnosed .",dsm5
+2,5,"GAD, characterized by excessive worry and anxiety, must be differentiated from the mood fluctuations of bipolar disorder, particularly in cases where anxiety symptoms are prominent .",dsm5
+2,1,"BD can present with depressive episodes indistinguishable from MDD, making it crucial to assess for a history of manic or hypomanic episodes to accurately diagnose BD .",dsm5
+2,44,"Personality disorders can present with mood instability similar to bipolar disorder, but the key distinction lies in the pervasive and enduring nature of personality traits versus the episodic nature of bipolar mood episodes .",dsm5
+2,4,"PTSD, with its intrusive symptoms and hyperarousal, can overlap with bipolar disorder's symptoms, especially in terms of anxiety and mood swings, requiring a comprehensive assessment of trauma history .",dsm5
+2,28,"It's essential to differentiate symptoms of bipolar disorder induced by substance use or medication from primary bipolar disorder, as the前者 may resolve with cessation of the substance or adjustment of medication .",dsm5
+1,47,"Adjustment disorder with depressed mood can resemble major depressive disorder, but it is triggered by a specific stressor and typically resolves within six months after the stressor is removed, whereas MDD is not directly linked to a stressor .",dsm5
+1,10,"ADHD is characterized by inattention and hyperactivity, which can be distinguished from MDD by the absence of pervasive low mood, although both can co-occur and may require careful assessment to differentiate .",dsm5
+1,2,,
+1,8,,
+1,29,"These disorders are distinguished from MDD by the temporal relationship between substance use or medication ingestion and the onset of mood symptoms, with resolution of symptoms following cessation of the substance or medication .",dsm5
+3,22,"BDD involves preoccupations with perceived flaws in appearance, which can lead to repetitive behaviors similar to OCD but is distinguished by its focus on physical appearance rather than obsessions and compulsions.",statpearls
+3,18,"Eating disorders like anorexia nervosa and bulimia nervosa can present with obsessional thoughts and behaviors related to food and weight, but are differentiated from OCD by their primary focus on body weight and shape.",statpearls
+3,5,"GAD is characterized by excessive and persistent worry across multiple domains, which contrasts with OCD's specific obsessions and compulsions.",statpearls
+3,61,"Hoarding disorder is distinguished from OCD by its focus on the difficulty discarding possessions, leading to clutter, rather than the presence of obsessions and compulsions.",statpearls
+3,1,"MDD can present with obsessive thoughts, but these are typically secondary to depressive symptoms and not the primary focus as in OCD.",statpearls
+3,7,"SAD involves fear of social situations and being judged by others, which is different from OCD's focus on obsessions and compulsions.",statpearls
+3,12,"Specific phobias involve a marked fear of a specific object or situation, which is distinct from the intrusive thoughts and compulsive behaviors in OCD.",statpearls
+3,23,"Tic disorders are characterized by involuntary, repetitive movements or sounds, which are different from the obsessions and compulsions in OCD.",statpearls
+3,24,"Trichotillomania involves compulsive hair pulling, which can be a symptom of OCD but is distinct in that it is specifically focused on hair pulling rather than a range of obsessions and compulsions.",statpearls
+4,30,Acute Stress Disorder is a psychological response to a traumatic event that occurs within the first month after the event and must not persist beyond a month to differentiate it from PTSD.,dsm5
+4,47,"Adjustment Disorders are short-term and mild emotional disturbances related to a specific stressor, differing from PTSD in duration and the presence of a clear stressor within three months of onset.",dsm5
+4,43,"Anxiety Disorders are characterized by excessive worry and fear, whereas PTSD is specifically related to traumatic events and involves re-experiencing, avoidance, and increased arousal.",dsm5
+4,33,"Conversion Disorder presents with neurological or motor symptoms without a physical cause, often following a psychological conflict or stress, and is distinguished from PTSD by its somatic,而非psychological, symptoms.",dsm5
+4,62,"Dissociative Disorders involve a disconnection from reality, memory, or identity, and are separate from PTSD, which is characterized by trauma-related symptoms rather than dissociation.",dsm5
+4,5,"Generalized Anxiety Disorder involves persistent and excessive worry about various life events, in contrast to PTSD, which is specifically linked to traumatic experiences.",dsm5
+4,1,"Major Depressive Disorder is characterized by a pervasive low mood and loss of interest, while PTSD involves trauma-related symptoms such as re-experiencing and hypervigilance.",dsm5
+4,3,"Obsessive-Compulsive Disorder is characterized by intrusive thoughts and compulsive behaviors, which are distinct from the trauma-focused symptoms of PTSD.",dsm5
+4,44,"Personality Disorders are long-standing patterns of maladaptive behavior that differ from PTSD, which is triggered by specific traumatic events and involves distinct symptom clusters.",dsm5
+4,17,"Psychotic Disorders involve a loss of contact with reality through hallucinations or delusions, which are not primary features of PTSD.",dsm5
+4,11,"Separation Anxiety Disorder is characterized by excessive fear of separation from attachment figures, typically starting in childhood, and is distinct from PTSD's trauma-related symptoms.",dsm5
+4,34,"TBI may result in a range of cognitive and emotional symptoms that can overlap with PTSD, but is distinguished by the presence of a physical brain injury rather than a psychological trauma.",dsm5
