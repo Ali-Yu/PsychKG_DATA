@@ -5,7 +5,7 @@ This repository contains the structured dataset and processing scripts used in t
 
 ## 📄 Description
 
-This dataset was manually curated from publicly available sources and structured for research on SRPDO. It includes symptoms, diagnoses, interventions, biomarkers, and risk factors across 5 dimensions about common stress-related psychiatric disorders.
+This dataset was manually curated from publicly available sources and structured for research on SRPD. It includes symptoms, diagnoses, interventions, biomarkers, and risk factors across 5 dimensions about common stress-related psychiatric disorders.
 
 ## 🔁 Usage
 
