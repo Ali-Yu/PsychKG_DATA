@@ -1,0 +1,42 @@
+﻿category_id,category_name,category_class
+1,Stress-related Disorder,disease
+2,Behavioral Symptom,symptom
+3,Cognitive Symptom,symptom
+4,Emotional Symptom,symptom
+5,Perceptual Symptom,symptom
+6,Physiological Symptom,symptom
+7,Psychomotor Symptom,symptom
+8,Self-perception Symptom,symptom
+9,Social Functioning Symptom,symptom
+10,Stress Response Symptom,symptom
+11,Dietary Supplements,intervention
+12,Exercise Therapy,intervention
+13,Mind-Body Therapies,intervention
+14,Mindfulness-Based Interventions,intervention
+15,Other Therapy,intervention
+16,Sensory Art Therapies,intervention
+17,Antidepressants,intervention
+18,Antipsychotics,intervention
+19,Anxiolytics,intervention
+20,Hormonal Drugs,intervention
+21,Hypnotics and Sedatives,intervention
+22,Mood Stabilizers,intervention
+23,Others Pharmacotherapy,intervention
+24,β-Blockers,intervention
+25,Psychiatric Somatic Therapies,intervention
+26,Psychotherapy,intervention
+27,Biomarker Cell,biomarker
+28,Biomarker Circuit,biomarker
+29,Biomarker Molecule,biomarker
+30,Behavioral Paradigm,measurement
+31,Psychological Scale,measurement
+32,Clinical Diagnostic Scale,diagnosis
+33,Medical History,diagnosis
+34,Physiological Assessment,diagnosis
+35,Course Modifiers,risk factor
+36,Environmental Factors,risk factor
+37,Genetic and Physiological Factors,risk factor
+38,Other Risk Factors,risk factor
+39,Temperamental Factors,risk factor
+40,Psychological Disorder,disease
+41,Somatic Disorder,disease
