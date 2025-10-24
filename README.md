@@ -1,6 +1,6 @@
 # Publicly available structured data on stress-related psychiatric disorders
 
-This repository contains the structured dataset and processing scripts used in the study.
+This repository contains the structured dataset and processing scripts used in the research.
 
 
 ## 📄 Description
